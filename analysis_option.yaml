@@ -1,0 +1,8 @@
+# Exclude the folowing from the analyzer due to Freezed
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+
+
+  

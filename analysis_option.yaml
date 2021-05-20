@@ -1,5 +1,3 @@
-include: package:lints/recommended.yaml
-include: package:lints/analysis_options.yaml
 include: package:pedantic/analysis_options.yaml
 # Exclude the folowing from the analyzer due to Freezed
 analyzer:
